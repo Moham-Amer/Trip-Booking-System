@@ -1,0 +1,5 @@
+Al-zahera,500.0,20.0
+Muhajrin,300.0,15.0
+Mazzah,200.0,10.0
+Baramka,400.0,5.0
+Midan,600.0,20.0

@@ -1,0 +1,11 @@
+jad,In_Damascus,397514
+nasim,Homes,578134
+hashim,In_Damascus,971235
+justin,Lattakia,794613
+waleed,Tartus,148635
+jehad,Aleppo,234684
+
+
+
+
+
